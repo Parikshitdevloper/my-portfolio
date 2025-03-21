@@ -60,7 +60,7 @@ const SocialIcons = () => {
     <div className="icons-section">
       <div className="social-icons" data-cursor="icons" id="social">
         <span>
-          <a href="www.github.com/Parikshitdevloper" target="_blank">
+          <a href="https://www.github.com/Parikshitdevloper" target="_blank">
             <FaGithub />
           </a>
         </span>
